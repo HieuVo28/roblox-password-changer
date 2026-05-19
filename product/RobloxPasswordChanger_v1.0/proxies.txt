@@ -1,4 +1,0 @@
-# Proxy List
-# Format: http://ip:port or http://user:pass@ip:port
-# Example: http://123.45.67.89:8080
-
