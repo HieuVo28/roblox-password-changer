@@ -1,0 +1,4 @@
+# Roblox Accounts
+# Format: username:password:cookie
+# Example: JohnDoe123:MyPass123:_|WARNING:-DO-NOT-SHARE-THIS...
+
